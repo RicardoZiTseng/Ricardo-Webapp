@@ -1,3 +1,7 @@
+#  -*- coding: utf-8 -*-
+
+__author__ = 'Ricardo'
+
 import logging
 import asyncio, os, json, time
 from datetime import datetime
