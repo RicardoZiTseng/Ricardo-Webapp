@@ -1,4 +1,5 @@
 *.py[cod]
+*.sql
 
 test.db
 test.txt
@@ -52,3 +53,5 @@ MANIFEST
 .mr.developer.cfg
 .project
 .pydevproject
+
+settings.json
